@@ -6,7 +6,7 @@
   "scripts": {
     "test-jasmine": "jasmine",
     "test-dev": "karma start",
-    "test": "./node_modules/.bin/karma start --single-run"
+    "test": "karma start --sigle-run"
   },
   "keywords": [],
   "author": "",
