@@ -11,4 +11,5 @@ before_install:
 services:
   - xvfb
 script:
+  - npm install
   - npm test
