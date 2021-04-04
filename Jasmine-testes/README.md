@@ -18,4 +18,3 @@ Crie testes unitários, aprenda a automatizar testes, versionar o código fonte,
 ## Jasmine-testes
 
 Neste diretório aprendemos todos os specs/suites do Jasmine, tais como spies, objetos, matchers e before-after.
-TESTES fasfaaaaaaaaaaaaaa

@@ -18,4 +18,3 @@ Crie testes unitários, aprenda a automatizar testes, versionar o código fonte,
 ## Jasmine-Node
 
 Neste diretório aprendemos a configurar o jasmine com node + karma para execução dos testes e integração com o Browser.
-tests
