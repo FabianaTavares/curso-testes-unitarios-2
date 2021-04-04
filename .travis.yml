@@ -3,10 +3,13 @@ node_js:
   - 'stable'
 addons:
   chrome: stable
+cache:
+  directories:
+    - 'node_modules'
 before_install:
   - export DISPLAY=:99.0
 services:
   - xvfb
 script:
   - npm install
-  - npm test
+  - npm run test
