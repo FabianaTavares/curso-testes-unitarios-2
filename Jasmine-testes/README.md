@@ -15,7 +15,7 @@ Crie testes unitários, aprenda a automatizar testes, versionar o código fonte,
 - Versionar o código fonte e fazer entrega contínua (CI) do mesmo
 - Entender todo o ciclo de desenvolvimento utilizando testes unitários
 
-## Jasmine-Node
+## Jasmine-testes
 
-Neste diretório aprendemos a configurar o jasmine com node + karma para execução dos testes e integração com o Browser.
-tests
+Neste diretório aprendemos todos os specs/suites do Jasmine, tais como spies, objetos, matchers e before-after.
+TESTES fasfaaaaaaaaaaaaaa

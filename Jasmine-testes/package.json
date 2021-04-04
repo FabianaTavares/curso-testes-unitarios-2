@@ -1,0 +1,23 @@
+{
+  "name": "Jasmine-testes",
+  "version": "1.0.0",
+  "description": "Este é um conjunto de codigos do curso \"Aprenda Testes Unitários com Javascript\" do autor Marcio Casale de Souza, disponível na plataforma Udemy. Segue abaixo o link.\r [Aprenda Testes Unitários com Javascript](https://www.udemy.com/course/aprenda-testes-unitarios-com-jasmine-javascript/)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianaTavares/curso-testes-unitarios-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianaTavares/curso-testes-unitarios-js/issues"
+  },
+  "homepage": "https://github.com/FabianaTavares/curso-testes-unitarios-js#readme"
+}
