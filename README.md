@@ -22,3 +22,4 @@ Neste diretório existema dois sub-diretorios:
 - Jasmine Testes: aborda os suites/specs do jasmine.
 - Jasmine Node: aborda a integração com node + Karma e suas configurações.
 - Integração de um projeto do github com Travis CI.
+- TESTES
